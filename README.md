@@ -1,3 +1,7 @@
+Esse foi um projeto pessoal super simples pra mim salvar meus treinos e relacionalos a dias da semana, todos os elementos sao salvos em local storage.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
